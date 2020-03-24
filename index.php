@@ -12,5 +12,5 @@ if($nome){
 ?>
 <form method="post">
     <input type="text" name='nome'>
-    <input type="submit" value="Enviar">
+    <input type="submit" value="Enviar Arquivo">
 </form>
